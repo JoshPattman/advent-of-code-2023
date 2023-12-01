@@ -1,4 +1,4 @@
-module day01-1
+module day01-2
 
 go 1.21.0
 
